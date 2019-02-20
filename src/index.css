@@ -1,0 +1,17 @@
+body{
+  box-sizing: border-box
+}
+
+header{
+  padding: 1px;
+}
+
+form>div{
+  text-align: center;
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.form-search{
+  background-color: #a2a6ad;
+}
